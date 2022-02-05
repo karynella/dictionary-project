@@ -1,10 +1,28 @@
 import "./App.css";
+import Dictionary from "./Dictionary.js";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
-      Hello
+      <div className="container">
+        <header className="App-header">Dictionary Shmictionary</header>
+
+        <main>
+          <Dictionary />
+        </main>
+        <footer>
+          <a
+            href="https://github.com/karynella/dictionary-project"
+            target="_blank"
+          >
+            Open source code
+          </a>{" "}
+          by{" "}
+          <a href="https://instagram.com/karynella" target="_blank">
+            Karynella
+          </a>
+        </footer>
+      </div>
     </div>
   );
 }
