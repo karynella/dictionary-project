@@ -13,12 +13,17 @@ function App() {
         <footer>
           <a
             href="https://github.com/karynella/dictionary-project"
+            rel="noreferrer"
             target="_blank"
           >
             Open source code
           </a>{" "}
           by{" "}
-          <a href="https://instagram.com/karynella" target="_blank">
+          <a
+            href="https://instagram.com/karynella"
+            rel="noreferrer"
+            target="_blank"
+          >
             Karynella
           </a>
         </footer>
