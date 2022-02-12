@@ -8,7 +8,7 @@ function App() {
         <header className="App-header">Dictionary Shmictionary</header>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Dictionary" />
         </main>
         <footer>
           <a
