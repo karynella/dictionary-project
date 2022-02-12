@@ -18,13 +18,26 @@ function App() {
           >
             Open source code
           </a>{" "}
-          by{" "}
+          by Karynella{" "}
           <a
-            href="https://instagram.com/karynella"
-            rel="noreferrer"
-            target="_blank"
+            href="https://www.linkedin.com/in/karyn-pearce-88a85493/"
+            target="blank"
+            mrel="noopener noreferrer"
           >
-            Karynella
+            <img
+              src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/390/original/Linkedin-logo-1-550x550-300x300.png?1642869308"
+              alt="LinkedIn"
+              width="20"
+              rel="noopener noreferrer"
+            />
+          </a>{" "}
+          <a href="https://www.instagram.com/karynella/" target="blank">
+            <img
+              src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/389/original/5772032.png?1642869242"
+              alt="Instagram"
+              width="17"
+              rel="noopener noreferrer"
+            />
           </a>
         </footer>
       </div>
